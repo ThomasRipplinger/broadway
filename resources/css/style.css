@@ -1,5 +1,6 @@
 body {
     font-family: Helvetica, sans-serif;
+    font-size: 14px;
     text-align: center;
 }
 
@@ -19,13 +20,16 @@ h3 {
     font-weight: bold;
 }
 
-p {
+/* p {
     font-size: 14px;
+} */
+
+a {
+    font-size: 18px;
+    color: white;
 }
 
-
 nav {
-    font-size: 18px;
     color: white;    
 }
 
@@ -37,6 +41,7 @@ nav {
     font-size: 23px;
     font-weight: bold;
     color: white;
+    background-image: url("../images/building.png");
 }
 
 .copyright {
